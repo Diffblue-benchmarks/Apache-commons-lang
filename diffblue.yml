@@ -181,3 +181,247 @@ phases:
       throw-runtime-exceptions: true
       # Set an upper bound on loop unwinding
       unwind: 3
+units:
+ - target:
+   - dir: target/classes
+     file: org/apache/commons/lang3/StringUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/StringUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/RegExUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/RegExUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/CharSequenceUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/CharSequenceUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/CharUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/CharUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ArrayUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ArrayUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/Charsets.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/Charsets.java
+ - target:
+   - dir: target/classes
+     file: org/apache/commons/lang3/text/WordUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/text/WordUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/StringUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/StringUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ArrayUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ArrayUtils.java
+ - target:
+   - dir: target/classes
+     file: org/apache/commons/lang3/time/DurationFormatUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/time/DurationFormatUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/time/DurationFormatUtils$Token.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/time/DurationFormatUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/StringUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/StringUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/Validate.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/Validate.java
+ - target:
+   - dir: target/classes
+     file: org/apache/commons/lang3/CharUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/CharUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/StringUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/StringUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/Validate.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/Validate.java
+ - target:
+   - dir: target/classes
+     file: org/apache/commons/lang3/ClassUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ClassUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ClassUtils$2.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ClassUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ArrayUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ArrayUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/StringUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/StringUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/builder/ToStringStyle.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/builder/ToStringStyle.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/Validate.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/Validate.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/builder/ToStringBuilder.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/builder/ToStringBuilder.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ClassUtils$Interfaces.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ClassUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ObjectUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ObjectUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ClassUtils$1.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ClassUtils.java
+ - target:
+   - dir: target/classes
+     file: org/apache/commons/lang3/math/NumberUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/math/NumberUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/StringUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/StringUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/Validate.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/Validate.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/CharSequenceUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/CharSequenceUtils.java
+ - target:
+   - dir: target/classes
+     file: org/apache/commons/lang3/BooleanUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/BooleanUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ArrayUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ArrayUtils.java
+ - target:
+   - dir: target/classes
+     file: org/apache/commons/lang3/RegExUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/RegExUtils.java
+ - target:
+   - dir: target/classes
+     file: org/apache/commons/lang3/ArrayUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ArrayUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/mutable/MutableInt.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/mutable/MutableInt.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/BooleanUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/BooleanUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/builder/IDKey.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/builder/IDKey.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/builder/EqualsBuilder.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/builder/EqualsBuilder.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ClassUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ClassUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/builder/HashCodeBuilder.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/builder/HashCodeBuilder.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/CharUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/CharUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/tuple/ImmutablePair.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/tuple/ImmutablePair.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/math/NumberUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/math/NumberUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/StringUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/StringUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/builder/ToStringStyle.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/builder/ToStringStyle.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/Validate.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/Validate.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/builder/ToStringBuilder.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/builder/ToStringBuilder.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/tuple/Pair.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/tuple/Pair.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ObjectUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ObjectUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ArrayUtils$1.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ArrayUtils.java
+ - target:
+   - dir: target/classes
+     file: org/apache/commons/lang3/Conversion.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/Conversion.java
+ - target:
+   - dir: target/classes
+     file: org/apache/commons/lang3/ObjectUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ObjectUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/mutable/MutableInt.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/mutable/MutableInt.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/Validate.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/Validate.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ObjectUtils$Null.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ObjectUtils.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/text/StrBuilder.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/text/StrBuilder.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/exception/CloneFailedException.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/exception/CloneFailedException.java
+   - dir: target/classes
+     file: org/apache/commons/lang3/ArrayUtils.class
+     sourceDir: src/main/java
+     sourceFile: org/apache/commons/lang3/ArrayUtils.java
